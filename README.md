@@ -59,8 +59,8 @@ The scanner identifies SQL errors from:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/sql-injection-scanner.git
-cd sql-injection-scanner
+git clone https://github.com/eterna22/SQL-Scanner
+cd SQL-Scanner
 ```
 
 2. Install required dependencies:
